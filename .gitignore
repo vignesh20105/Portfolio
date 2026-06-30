@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Build outputs
+dist/
+build/
+
+# Logs and runtime files
+logs
+*.log
+npm-debug.log*
+
+# Environment secrets
+.env
+.env.local
