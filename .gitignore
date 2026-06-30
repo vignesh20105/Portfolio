@@ -45,5 +45,4 @@ logs/
 .cache/
 .eslintcache
 
-.vscode
-D:\Project\Portfolio\.vscode
+*.vscode
